@@ -16,12 +16,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quic-go/webtransport-go"
+	"github.com/mikelsr/webtransport-go"
 
-	"github.com/quic-go/quic-go"
-	"github.com/quic-go/quic-go/http3"
-	"github.com/quic-go/quic-go/logging"
-	"github.com/quic-go/quic-go/qlog"
+	"github.com/mikelsr/quic-go"
+	"github.com/mikelsr/quic-go/http3"
+	"github.com/mikelsr/quic-go/logging"
+	"github.com/mikelsr/quic-go/qlog"
 
 	"github.com/stretchr/testify/require"
 )

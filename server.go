@@ -11,9 +11,9 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/quic-go/quic-go"
-	"github.com/quic-go/quic-go/http3"
-	"github.com/quic-go/quic-go/quicvarint"
+	"github.com/mikelsr/quic-go"
+	"github.com/mikelsr/quic-go/http3"
+	"github.com/mikelsr/quic-go/quicvarint"
 )
 
 const (

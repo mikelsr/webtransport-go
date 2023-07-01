@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/quic-go/quic-go"
+	"github.com/mikelsr/quic-go"
 
 	"github.com/stretchr/testify/require"
 )
